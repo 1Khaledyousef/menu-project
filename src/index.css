@@ -1,0 +1,92 @@
+.font{
+  background-color: #f8f8f8;
+  font-family: 'Almarai', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 20px;
+
+}
+.bodycolor{
+  background-color: #f8f8f8;
+
+}
+body{
+  background-color: #f8f8f8;
+
+}
+.btn-search{
+  color: #b45b35;
+  background-color: white;
+  outline-color: #b45b35;
+  border-color: #b45b35;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
+.navbarcolor{
+  background-color:#212528;
+}
+.btn-search:hover{
+  color: #000;
+  background-color: #b45b35;
+  outline-color: white;
+  border-color: #b45b35;
+  border-radius: 5px;
+   
+   
+}
+.btntogggle{
+  background-color: #b45b35;
+  border-color: #b45b35;
+  color: #b45b35;
+}
+.brandcolor{
+  color: #b45b35;
+
+}
+.namemnue{
+  margin-top: 19px;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.underline{
+  margin-top: -5px;
+
+   height: 1px;
+   width: 15%;
+   border-radius: 1px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 1px;
+   -ms-border-radius: 1px;
+   -o-border-radius: 1px;
+   border: 2px solid #b45b35;
+}
+
+
+.categorybuttons{
+  margin-top: 5px;
+}
+
+
+.img-item {
+  height: 180px;
+  width: 252px;
+  border-radius: 5px;
+}
+.item-description {
+  color: #8C8C8C;
+  font-family: Almarai;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.item-title {
+  color: #555555;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
